@@ -1,0 +1,15 @@
+{  "entity.player.teleport": {
+    "sounds": [
+      "entity/player/teleport/tp1"
+    ],
+    "subtitle": "subtitles.entity.player.teleport",
+    "replace": true
+  },
+  "entity.player.death": {
+    "sounds": [
+      "entity/player/death/death1"
+    ],
+    "subtitle": "subtitles.entity.player.death",
+    "replace": true
+  }
+}
