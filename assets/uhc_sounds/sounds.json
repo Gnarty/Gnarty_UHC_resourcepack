@@ -1,0 +1,56 @@
+{
+    "test": {
+        "sounds": [
+            "uhc_sounds:test/test"
+        ]
+    },
+    "test2": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:test/test"
+        ]
+    },
+    "explanation": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:start/explanation"
+        ]
+    }
+    ,
+    "counting": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:start/counting"
+        ]
+    },
+    "borde": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:events/borde"
+        ]
+    },
+    "death": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:events/death"
+        ]
+    },
+    "pve_event": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:events/pve_event"
+        ]
+    },
+    "pvp_on": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:events/pvp_on"
+        ]
+    },
+    "team_eliminated": {
+        "category": "master",
+        "sounds": [
+            "uhc_sounds:events/team_eliminated"
+        ]
+    }
+}

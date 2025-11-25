@@ -11,5 +11,16 @@
     ],
     "subtitle": "subtitles.entity.player.death",
     "replace": true
-  }
+  },
+    "test3": {
+        "sounds": [
+            "custom/test3"
+        ]
+    },
+    "test4": {
+        "category": "master",
+        "sounds": [
+            "sounds/custom/test4"
+        ]
+    }
 }
